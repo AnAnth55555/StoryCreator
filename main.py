@@ -9,7 +9,25 @@ with open('names.txt', 'r') as f:
 with open('jobs.txt', 'r') as f:
     jobs = f.read().split("\n\n")
     
+def randomize_chart(people):
+    c = random.choice(people)
+    match random.randint(0,4):
+        case 0:
+            c.means = not c.means
+        case 1:
+            c.motive = not c.motive
+        case 2:
+            c.opportunity = not c.opportunity
+        case 3:
+            c.evidence = not c.evidence
     
+    
+
+def print_chart(people):
+    print("Suspects|Means|Motive|Opportunity|Evidence")
+    for h in people:
+        print(f'{h.name:<20}|{h.means}|{h.motive}|{h.opportunity}|{h.evidence}')    
+        
 class Character:
     def __init__(self):
         self.name = random.choice(names)
@@ -90,6 +108,13 @@ def main():
         print(f'{l.name} the {l.job}, {l.trait1} {l.trait2}')
         for c in list(l.known_people.keys()):
             print(f'Why does {l.name} {l.scale(l.known_people[c])} {c.name}?')
+        print()
+
+    print()
+    print_chart(people)
+    for h in range(len(people)):
+        randomize_chart(people)
+        print_chart(people)
         print()
 
 if __name__ == '__main__':
