@@ -87,7 +87,10 @@ def main():
             people[k].meet(people[j])
         
     for l in people:
-        print(l)
+        print(f'{l.name} the {l.job}, {l.trait1} {l.trait2}')
+        for c in list(l.known_people.keys()):
+            print(f'Why does {l.name} {l.scale(l.known_people[c])} {c.name}?')
+        print()
 
 if __name__ == '__main__':
     main()
