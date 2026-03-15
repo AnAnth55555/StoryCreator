@@ -1,0 +1,36 @@
+Suspects|Means|Motive|Opportunity|Evidence
+Winnie McBride      |False|False|False|True
+Amayah Mayer        |False|False|False|False
+Louis Hall          |True|False|False|False
+Julie McDowell      |False|False|True|False
+Poppy Sexton        |True|True|True|False
+fSuspects|Means|Motive|Opportunity|Evidence
+Winnie McBride      |True|False|False|True
+Amayah Mayer        |False|False|False|False
+Louis Hall          |True|False|False|False
+Julie McDowell      |False|False|True|False
+Poppy Sexton        |True|True|True|False
+dsSuspects|Means|Motive|Opportunity|Evidence
+Winnie McBride      |True|False|False|True
+Amayah Mayer        |False|False|False|False
+Louis Hall          |True|True|False|False
+Julie McDowell      |False|False|True|False
+Poppy Sexton        |True|True|True|False
+Suspects|Means|Motive|Opportunity|Evidence
+Winnie McBride      |True|False|False|True
+Amayah Mayer        |False|False|False|False
+Louis Hall          |True|True|False|False
+Julie McDowell      |False|False|True|False
+Poppy Sexton        |True|True|True|False
+afdsSuspects|Means|Motive|Opportunity|Evidence
+Winnie McBride      |True|False|False|True
+Amayah Mayer        |False|False|False|False
+Louis Hall          |True|True|False|True
+Julie McDowell      |False|False|True|False
+Poppy Sexton        |True|True|True|False
+Suspects|Means|Motive|Opportunity|Evidence
+Winnie McBride      |True|False|False|True
+Amayah Mayer        |False|False|False|False
+Louis Hall          |True|True|False|True
+Julie McDowell      |False|False|True|False
+Poppy Sexton        |True|True|True|False

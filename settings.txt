@@ -1,0 +1,123 @@
+Alley
+Bank
+Big City Street
+Boardroom
+Car Accident
+Car Wash
+Cheap Motel
+Community Center
+Condemned Apartment Building
+Construction Site
+Courtroom
+Elevator
+Emergency Room
+Empty Lot
+Factory
+Fire Station
+Fitness Center
+Funeral Home
+Gas Station
+Hair Salon
+Homeless Shelter
+Hospital Room
+Hotel Room
+Juvenile Detention Center
+Laundromat
+Library
+Mechanic’s Shop
+Military Base
+Morgue
+Newsroom
+Nursing Home
+Office Cubicle
+Park
+Parking Garage
+Parking Lot
+Penthouse Suite
+Police Station
+Prison Cell
+Psychiatric Ward
+Public Restroom
+Refugee Camp
+Run-down Apartment
+Sewers
+Small Town Street
+Spa
+Tattoo Parlor
+Therapist’s Office
+Underpass
+Vet Clinic
+Waiting Room
+Bakery
+Bar
+Casual Dining Restaurant
+Coffeehouse
+Deli
+Diner
+Fast Food Restaurant
+Ice Cream Parlor
+Pub
+Antiques Shop
+Bazaar
+Bookstore
+Convenience Store
+Flower Shop
+Grocery Store
+Hardware Store
+Jewelry Store
+Liquor Store
+Pawn Shop
+Pet Store
+Psychic’s Shop
+Shopping Mall
+Thrift Store
+Used Car Dealership
+Amusement Park
+Art Gallery
+Art Studio
+Ballroom
+Black-Tie Event
+Bowling Alley
+Carnival Funhouse
+Casino
+Circus
+Golf Course
+Green Room
+Indoor Shooting Range
+Movie Theater
+Museum
+Nightclub
+Outdoor Pool
+Outdoor Skating Rink
+Parade
+Performing Arts Theater
+Pool Hall
+Race Track (Horses)
+Rec Center
+Recording Studio
+Rock Concert
+Skate Park
+Ski Resort
+Sporting Event Stands
+Vegas Stage Show
+Waterpark
+Zoo
+Airplane
+Airport
+Ambulance
+City Bus
+Cruise Ship
+Fishing Boat
+Limousine
+Marina
+Military Helicopter
+Old Pick-Up Truck
+Police Car
+Submarine
+Subway Train
+Subway Tunnel
+Tank
+Taxi
+Train Station
+Truck Stop
+Yacht
