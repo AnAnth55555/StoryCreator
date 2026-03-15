@@ -35,6 +35,10 @@ class Character:
         self.trait2 = random.choice(traits)
         self.job = random.choice(jobs)
         self.known_people = {}
+        self.motive = bool(random.getrandbits(1))
+        self.means = bool(random.getrandbits(1))
+        self.opportunity = bool(random.getrandbits(1))
+        self.evidence = bool(random.getrandbits(1))
     def __str__(self):
         return f'{self.name}, {self.trait1} and {self.trait2}, {self.job}, {self.print_known_people()} '
         
